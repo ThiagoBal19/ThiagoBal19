@@ -1,0 +1,4 @@
+- 👋 Hola, soy Thiago Balderrama
+- 👀 Estoy interesado en la programación, tanto de páginas webs como apps y juegos.
+- 🌱 Actualmente estoy cursando la carrera de 'desarrollador web front-end'
+- 📫 Podes encontrarme en Linkedin: (https://www.linkedin.com/in/thiago-balderrama/)
